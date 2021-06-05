@@ -1,0 +1,10 @@
+1er TRABAJO PRÁCTICO. ALGORÍTMICA Y PROGRAMACIÓN I 2018
+
+Desarrolla un algoritmo que:
+1. Permita mostrar triángulos rectángulos numerados mientras el usuario lo desee.
+2. Por cada triángulo, debe calcular y mostrar su superficie. La superficie es la suma de todos los
+números que conforman el triángulo rectángulo.
+3. Por cada triángulo, debe calcular y mostrar su perímetro. El perímetro es la suma de los
+números que conforman los catetos y la hipotenusa del triángulo rectángulo numerado.
+4. La dimensión de los triángulos será dada por el usuario en cada iteración.
+- Debes ​ utilizar recursión​ ​ en la resolución del problema.
