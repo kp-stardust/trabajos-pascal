@@ -1,4 +1,4 @@
-## **NOTAS**
+# Trabajos prácticos PASCAL.
 
 Estos son los trabajos prácticos de Algorítmica I que hice en primer año de la universidad utilizando el lenguaje de programación Pascal.
 He decidido subirlos como una práctica para aprender a utilizar Git y Github.
@@ -6,7 +6,7 @@ He decidido subirlos como una práctica para aprender a utilizar Git y Github.
 
 El primero de ellos consiste en generar un triángulo de Pascal utilizando recursión:
 
-**1er TRABAJO PRÁCTICO. ALGORÍTMICA Y PROGRAMACIÓN I 2018**
+## 1er TRABAJO PRÁCTICO. ALGORÍTMICA Y PROGRAMACIÓN I 2018
 
 *Desarrolla un algoritmo que:*
 *1. Permita mostrar triángulos rectángulos numerados mientras el usuario lo desee.*
@@ -18,7 +18,7 @@ El primero de ellos consiste en generar un triángulo de Pascal utilizando recur
 
 El segundo consiste en trabajar con archivos de registros:
 
-**2º TRABAJO PRÁCTICO. ALGORÍTMICA Y PROGRAMACIÓN I 2018**
+## 2º TRABAJO PRÁCTICO. ALGORÍTMICA Y PROGRAMACIÓN I 2018
 
 *Se dispone de un archivo llamado AGENDA.DAT que contiene datos personales de cierta cantidad de personas.*
 *Desarrolla un algoritmo que permita:*
